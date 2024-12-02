@@ -35,7 +35,7 @@ class $modify(kanye, MenuLayer) {
     }
 
     void onclick(CCObject*) {
-        // trash code
+        // trash code, took too long to make (days ew)
         m_fields->billy->setEnabled(false);
 
         auto req = web::WebRequest();
