@@ -1,0 +1,21 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+                "ios": "2.2074"
+	},
+	"id": "jarvisdevil.bubby",
+	"name": "bubby",
+	"version": "v1.0.0",
+	"developer": "jarvisdevil",
+	"description": "Helps you know everything about Geometry Dash!",
+        "tags": [
+            "online",
+            "joke"
+        ],
+        "links": {
+		"source": "https://github.com/jarvisdevlin/bubby"
+	}
+}
