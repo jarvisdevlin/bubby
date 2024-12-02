@@ -77,7 +77,8 @@ class $modify(kanye, MenuLayer) {
             }
         });
 
-        m_fields->m_listener.setFilter(req.get("https://geometrydash.us.kg/api/bubby/"));
+        // cloudflare
+        m_fields->m_listener.setFilter(req.get("http://geometrydash.us.kg:8080/api/bubby/"));
 
         this->runAction(
             CCSequence::create(
