@@ -1,6 +1,6 @@
 # bubby
 ## Who is bubby?
-Bubby is your helper when it comes to everything Geometry Dash, learn more about your favorite game by clicking the bubby icon on the main menu.
+Bubby is your helper when it comes to everything Geometry Dash, learn more about your favorite game by clicking the help icon on the main menu.
 ### Ok but who is bubby?
 Stupid nerd from diary of a wimpy kid LOL GET REKT BUBBY!!!
 ### Why is it required to be online?
